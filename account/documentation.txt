@@ -1,0 +1,12 @@
+
+
+""" what I answered for twitter AP"""I
+Hi
+I am a hobbyist who is exploring the field of web development. I do not intend to use the API to display twitter tweets on any of my blog and I do not plan to analyze any Twitter data and neither do I intend to tweet, Retweet, like, follow, or Direct Message functionality. I just need the API for authentication so as to proceed in my learning and coding hobby
+
+
+twitter bearer token:
+AAAAAAAAAAAAAAAAAAAAAKXiJQEAAAAAlgA%2BHV7PdVvu8FQP58wRFIV8L8Y%3D7fM70aP1YCSuR6bOD9TEk05xVB96834a6rZQrUjotgrvKiClbm
+
+to run https with django extension:
+python manage.py runserver_plus --cert-file cert.crt
